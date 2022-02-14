@@ -1,2 +1,2 @@
 # Meme Generator
-!(Preview)[./public/gitAssets/meme.png]
+![Preview](./public/gitAssets/meme.png)
